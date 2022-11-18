@@ -4,8 +4,8 @@ const passport = require("passport");
 
 // Open https://console.cloud.google.com/
 const GOOGLE_CLIENT_ID =
-  "1068123877759-3fu5ahdsj3olsbut0mtsjl47so60unii.apps.googleusercontent.com";
-const GOOGLE_CLIENT_SECRET = "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";
+  "YOUR_GOOGLE_CLIENT_ID";
+const GOOGLE_CLIENT_SECRET = "YOUR_GOOGLE_CLIENT_SECRET";
 
 // FACEBOOK_APP_ID = "";
 // FACEBOOK_APP_SECRET = "";
